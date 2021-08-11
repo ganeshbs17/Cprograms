@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Collection of C programs which are part of VTU syllabus for course "C programming for Problem Solving "
 
-You can use the [editor on GitHub](https://github.com/ganeshbs17/Cprograms/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## subject code : 18CPS12 or 18CPS23
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CPS Lab
 
-### Markdown
+#### Contents
+ 	
+                    PART-A
+                    
+1	[Develop a program to solve simple computational problems using arithmetic expressions and use of each operator leading to the simulation of a commercial calculator. (No built-in math function) ](https://github.com/ganeshbs17/Cprograms/blob/master/SimpleCalculator.c)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2	[Develop a program to compute the roots of a quadratic equation by accepting the coefficients. Print appropriate messages.](https://github.com/ganeshbs17/Cprograms/blob/master/QuadraticEqn.c)
 
-```markdown
-Syntax highlighted code block
+3	[Develop a program to find the reverse of a positive integer and check for palindrome or not. Display appropriate messages.](https://github.com/ganeshbs17/Cprograms/blob/master/Palindrome.c)
 
-# Header 1
-## Header 2
-### Header 3
+4	[An electricity board charges the following rates for the use of electricity: for the first 200 units 80 paise per unit: for the next 100 units 90 paise per unit: beyond 300 units Rs 1 per unit. All users are charged a minimum of Rs. 100 as meter charge. If the total amount is more than Rs 400, then an additional surcharge of 15% of total amount is charged. Write a program to read the name of the user, number of units consumed and print out the charges.](https://github.com/ganeshbs17/Cprograms/blob/master/Electricitybill.c)
 
-- Bulleted
-- List
+5	[Introduce 1D Array manipulation and implement a Binary search.](https://github.com/ganeshbs17/Cprograms/blob/master/BinarySearch.c)
 
-1. Numbered
-2. List
+6	[Implement using functions to check whether the given number is prime and display appropriate messages. (No built-in math function)](https://github.com/ganeshbs17/Cprograms/blob/master/prm.c)
 
-**Bold** and _Italic_ and `Code` text
+ 	 
+                   PART-B
+                   
+7	[Develop a program to introduce 2D Array manipulation and implement Matrix multiplication and ensure the rules of multiplication are checked.]()
 
-[Link](url) and ![Image](src)
-```
+8	[Develop a Program to compute Sin(x) using Taylor series approximation. Compare your result with the built-in Library function. Print both the results with appropriate messages.](https://github.com/ganeshbs17/Cprograms/blob/master/sinFunction.c)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+9	[Write functions to implement string operations such as compare, concatenate, string length. Convince the parameter passing techniques.](https://github.com/ganeshbs17/Cprograms/blob/master/stringOperation.c)
 
-### Jekyll Themes
+10	[Develop a program to sort the given set of numbers using Bubble sort.](https://github.com/ganeshbs17/Cprograms/blob/master/BubbleSort.c)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ganeshbs17/Cprograms/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+11	[Develop a program to find the square root of a given number N and executes for all possible inputs with appropriate messages. Note: Don’t use library function sqrt(n).](https://github.com/ganeshbs17/Cprograms/blob/master/SquareRoot.c)
 
-### Support or Contact
+12	[Implement structures to read, write, and compute average-marks and the students scoring above and below the average marks for a class of N students.](https://github.com/ganeshbs17/Cprograms/blob/master/Structure.c)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+13	[Develop a program using pointers to compute the sum, mean and standard deviation of all elements stored in an array of n real numbers.]()
+
+14	[Implement Recursive functions for Binary to Decimal Conversion]()
